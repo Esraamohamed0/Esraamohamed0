@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm Esraa Elsyed</h1>
+<h1 align="left">Hi 👋, I'm Esraa Elsayed</h1>
 
 ###
 
-<h3 align="left">Front End Developer</h3>
+<h3 align="left">BackEnd Developer</h3>
 
 <!-- <br clear="both"> -->
 

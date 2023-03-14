@@ -4,13 +4,7 @@
 
 <h3 align="left">Front End Developer</h3>
 
-###
-
-<!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Esraamohamed0.Esraamohamed0&left_text=Proflie views"  /> -->
-
-###
-
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <h3 align="left">Connect with me:</h3>
 

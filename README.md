@@ -3,7 +3,7 @@
 ###
 
 <h3 align="left">BackEnd Developer</h3>
-
+<h4 align="left">I’m currently learning open source technologies at iti</h4>
 <!-- <br clear="both"> -->
 
 <h3 align="left">Connect with me:</h3>

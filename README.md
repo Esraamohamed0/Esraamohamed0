@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Full-Stack Web Developer</h3>
+<h3 align="left">Front End Developer</h3>
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Esraamohamed0.Esraamohamed0&left_text=Proflie views"  />
+<!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Esraamohamed0.Esraamohamed0&left_text=Proflie views"  /> -->
 
 ###
 
